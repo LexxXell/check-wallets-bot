@@ -1,0 +1,22 @@
+{
+  "name": "@lexxxell/check-wallets-bot",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn tsc && node dist/index.js",
+    "test": "yarn tsc && node dist/test.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@lexxxell/callback-scheduler": "LexxXell/callback-scheduler",
+    "@lexxxell/send-telegram-message": "lexxxell/send-telegram-message",
+    "@lexxxell/timestring-to-ms": "lexxxell/timestring-to-ms",
+    "@owl352/get-wallets": "owl352/get-wallets",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
