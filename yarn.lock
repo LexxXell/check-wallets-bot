@@ -601,8 +601,8 @@
   integrity sha512-MVC8EAQp7MvEcm30KWENFjgR+Mkmf+D189XJTkFIlwohU5hcBbn1ZkKq7KVTi2Hme3PMGF390DaL52beVrIihQ==
 
 "@owl352/get-wallets@owl352/get-wallets":
-  version "1.0.0"
-  resolved "https://codeload.github.com/owl352/get-wallets/tar.gz/7e2ccf515296be79d8a8d709acb2239cffc8d1cb"
+  version "1.0.2"
+  resolved "https://codeload.github.com/owl352/get-wallets/tar.gz/81b6dd2d26df25563b9aaf80102caecdc85aa8be"
   dependencies:
     "@eversdk/core" "^1.44.3"
     "@eversdk/lib-node" "^1.44.3"
@@ -1023,9 +1023,9 @@
   integrity sha512-USEkXA46P9sqClL7PZv0QFsit4S8Im97wchKG0/H/9q3AT/S76r40UHfCr4Un7eBJPE23f7fU9BZ0ITpP9MCsA==
 
 "@tatumio/tatum@^4.0.13":
-  version "4.1.5"
-  resolved "https://registry.yarnpkg.com/@tatumio/tatum/-/tatum-4.1.5.tgz#06588a291c6db9b679b3f37695317a3e09409f43"
-  integrity sha512-Ep0i5ie507mDeMMAsmyLWKgx4mD4sMFFgIr7dRRRiiLtcYGnWBd7fsc1hotqGEes7FEiUZvcpwrSRR/HDrDcDg==
+  version "4.1.7"
+  resolved "https://registry.yarnpkg.com/@tatumio/tatum/-/tatum-4.1.7.tgz#88acc9687e9b3df1855c4f6f3f67630f6f9dcec5"
+  integrity sha512-D7EmtWugflaDa9YAe9Y1183Oa4YRRGuIcizpOWdgwoZeLQmtVhmasHGCZbxGgxTUTKa6EJNcZ7AH8ZbbdAm1Aw==
   dependencies:
     bignumber.js "^9.1.1"
     reflect-metadata "^0.1.13"
